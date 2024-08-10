@@ -8,13 +8,16 @@ This project uses an Artificial Neural Network (ANN) to predict breast cancer ou
 
 ## Project Structure
 
-.gitignore           # Specifies files and directories to be ignored by Git
-README.md            # Project documentation
-app.py               # Main application script
-best_model.pkl       # Serialized best model for prediction
-breast_cancer.ipynb  # Jupyter Notebook with data exploration and model training
-requirements.txt     # Python package dependencies
-scaler.pkl           # Serialized scaler used for feature scaling
+The project directory contains the following files:
+
+- **`.gitignore`**           : Specifies files and directories to be ignored by Git
+- **`README.md`**            : Project documentation
+- **`app.py`**               : Main application script
+- **`best_model.pkl`**       : Serialized best model for prediction
+- **`breast_cancer.ipynb`**  : Jupyter Notebook with data exploration and model training
+- **`requirements.txt`**     : Python package dependencies
+- **`scaler.pkl`**           : Serialized scaler used for feature scaling
+
 
 ## Installation
 
