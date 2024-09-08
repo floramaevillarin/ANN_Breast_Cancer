@@ -1,4 +1,4 @@
-# ANN Breast Cancer Project
+# ANN Breast Cancer
 
 https://floramaevillarin-ann-breast-cancer-app-wx6pzh.streamlit.app/
 
